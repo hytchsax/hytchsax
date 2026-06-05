@@ -64,4 +64,4 @@ I am actively building projects and completing official training through the **A
 
 ### 📫 Connect with me
 
-[<img src="https://shields.io" />](https://linkedin.com/maiconhytchsantos)
+[<img src="https://shields.io" />](https://linkedin.com/in/maiconhytchsantos)
